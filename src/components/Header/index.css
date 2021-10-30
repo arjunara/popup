@@ -1,0 +1,14 @@
+.nav-bar {
+  height: 18vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid #dcdcdc;
+}
+.popup-content {
+  width: 100%;
+  height: 100vh;
+}
+.link-item {
+  text-decoration: none;
+}
